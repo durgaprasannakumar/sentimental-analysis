@@ -1,0 +1,14 @@
+    Sentiment Analysis on Movie Reviews
+RUNNING
+run the sentinal_kernal.py 
+if asked install packages using pip install
+as final result
+csv file will be created where result can be seen
+
+ACHEIVING
+used a nltk tokenizer, stop-words list and a stemmer for text pre-processing.
+
+
+
+REFERENCES
+https://nlp.stanford.edu/sentiment/
